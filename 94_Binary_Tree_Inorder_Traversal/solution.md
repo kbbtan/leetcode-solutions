@@ -22,7 +22,9 @@ continue this process until both the `stack` and `curr` are empty.
 
 ### Complexity
 **Time Complexity:** O(n)
+
 We traverse the nodes in the binary tree in linear time.
 
 **Space Complexity:** O(n)
+
 We use additional O(n) space to maintain the stack and result array.

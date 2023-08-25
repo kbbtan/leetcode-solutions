@@ -9,9 +9,11 @@ The tricky part is the format which the result needs to be in, namely a list of 
 
 ### Complexity
 **Time Complexity:** O(n)
+
 We traverse the binary tree in linear time using BFS.
 
 **Space Complexity:** O(n)
+
 We use linear space to maintain both the result list and the queue.
 
 ### Alternatives / Improvements

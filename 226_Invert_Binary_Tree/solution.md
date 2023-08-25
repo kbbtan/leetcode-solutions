@@ -13,7 +13,9 @@ As with many tree traversal problems, we need to mind the base case where the tr
 
 ### Complexity
 **Time Complexity:** O(n)
+
 We traverse the tree in linear time.
 
 **Space Complexity:** O(n)
+
 We use O(n) space to maintain a data structure to traverse the tree (queue / stack / etc.).

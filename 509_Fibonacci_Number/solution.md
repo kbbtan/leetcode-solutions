@@ -10,7 +10,9 @@ For the inductive cases $n \geq 2$, we can solve F(n) iteratively up until $n - 
 
 ### Complexity
 **Time Complexity:** O(n)
+
 We iterate on $n$ to calculate the solution for each new sub-problem.
 
 **Space Complexity:** O(1)
+
 We only keep track of the solutions for two sub-problems at any given time.

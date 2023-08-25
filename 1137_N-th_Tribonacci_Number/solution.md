@@ -6,7 +6,9 @@ This problem is very similar to [509. Fibonacci Number](../509_Fibonacci_Number/
 
 ### Complexity
 **Time Complexity:** O(n)
+
 We iterate on $n$ to calculate the solution for each sub-problem.
 
 **Space Complexity:** O(1)
+
 We only keep track of the solutions for two sub-problems at any given time.

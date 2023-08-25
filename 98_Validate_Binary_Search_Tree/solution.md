@@ -7,7 +7,9 @@ We can perform an [in-order traversal](../94_Binary_Tree_Inorder_Traversal/solut
 
 ### Complexity
 **Time Complexity:** O(n)
+
 We traverse the BST in linear time.
 
 **Space Complexity:** O(n)
+
 We maintain a stack of the nodes in order to perform in-order traversal.

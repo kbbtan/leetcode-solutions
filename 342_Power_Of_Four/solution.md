@@ -9,7 +9,9 @@ Since $-2^{31} \leq n \leq 2^{31} - 1$, we have to account for the special case 
 
 ### Complexity
 **Time Complexity:** O(1)
+
 All operations run in constant time.
 
 **Space Complexity:** O(1)
+
 No additional space is used.
