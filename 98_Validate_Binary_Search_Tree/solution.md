@@ -3,7 +3,7 @@
 
 ## Initial Solution
 
-We can perform an in-order traversal of the binary tree. If the traversal is strictly increasing, it is a valid binary search tree. Since the question specifies that the number of nodes is in the range $[1, 10^4]$, we can avoid testing for the edge case where `root == None`.
+We can perform an [in-order traversal](../94_Binary_Tree_Inorder_Traversal/solution.md) of the binary tree. If the traversal is strictly increasing, it is a valid binary search tree. Since the question specifies that the number of nodes is in the range $[1, 10^4]$, we can avoid testing for the edge case where `root == None`.
 
 ### Complexity
 **Time Complexity:** O(n)
